@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brandcolors-app/static/css/main.9368cf54.css",
+    "main.js": "/brandcolors-app/static/js/main.91bf1d28.js",
+    "index.html": "/brandcolors-app/index.html",
+    "main.9368cf54.css.map": "/brandcolors-app/static/css/main.9368cf54.css.map",
+    "main.91bf1d28.js.map": "/brandcolors-app/static/js/main.91bf1d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9368cf54.css",
+    "static/js/main.91bf1d28.js"
+  ]
+}
